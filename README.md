@@ -1,0 +1,1 @@
+# sınavo ortalaması hesaplama
